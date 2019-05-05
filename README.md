@@ -101,11 +101,14 @@ Rust-language assets for Zcash. (bellman-zk-SNARK, pairing-elliptic curves)
 ##### [Grin](https://github.com/mimblewimble/grin)
 Minimal implementation of the MimbleWimble protocol.
 
-##### [Tendermint ABCI](https://github.com/tendermint/rust-abci)
-A rust implementation of the ABCI protocol for tendermint core.
-
 ##### [Raft](https://github.com/pingcap/raft-rs)
 Raft distributed consensus algorithm implemented in Rust.
+
+##### [parsec](https://github.com/maidsafe/parsec)
+Protocol for Asynchronous, Reliable, Secure and Efficient Consensus.
+
+##### [Tendermint ABCI](https://github.com/tendermint/rust-abci)
+A rust implementation of the ABCI protocol for tendermint core.
 
 ## P2P Network
 ##### [libp2p](https://github.com/libp2p/rust-libp2p)
@@ -113,6 +116,15 @@ The Rust Implementation of libp2p networking stack.
 
 ##### [p2p](https://github.com/driftluo/p2p)
 A multiplexed p2p network framework that supports custom protocols.
+
+##### [crust](https://github.com/maidsafe/crust)
+Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects
+
+##### [routing](https://github.com/maidsafe/routing)
+Routing - specialised storage DHT.
+
+##### [quic-p2p](https://github.com/maidsafe/quic-p2p)
+peer-to-peer communications library for Rust based on QUIC protocol.
 
 ## Tool
 ##### [Substrate](https://github.com/paritytech/substrate)
