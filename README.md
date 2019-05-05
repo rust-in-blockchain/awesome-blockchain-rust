@@ -41,15 +41,8 @@ Open source implementation of Witnet decentralized oracle network protocol in Ru
 ##### [CodeChain](https://github.com/CodeChain-io/codechain)
 Programmable multi-asset chain.
 
-## Consensus
-##### [Grin](https://github.com/mimblewimble/grin)
-Minimal implementation of the MimbleWimble protocol.
-
-##### [Tendermint ABCI](https://github.com/tendermint/rust-abci)
-A rust implementation of the ABCI protocol for tendermint core.
-
-##### [librustzcash](https://github.com/zcash/librustzcash)
-Rust-language assets for Zcash.
+##### [zero-chain](https://github.com/LayerXcom/zero-chain)
+A privacy-preserving blockchain on Substrate.
 
 ## Cryptography
 ##### [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
@@ -71,16 +64,48 @@ Collection of block cipher algorithms written in pure Rust.
 ##### [rustls](https://github.com/ctz/rustls)
 A modern TLS library in Rust.
 
-## Tool
+##### [mesalink](https://github.com/mesalock-linux/mesalink)
+MesaLink is a memory safe and OpenSSL-compatible TLS library.
+
+##### [tiny-keccak](https://github.com/debris/tiny-keccak)
+A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust.
+
+##### [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1)
+Rust language bindings for Bitcoin secp256k1 library.
+
+##### [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide)
+Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium)
+
+##### [zexe](https://github.com/scipr-lab/zexe)
+Rust library for decentralized private computation.
+
+##### [RustySecrets](https://github.com/SpinResearch/RustySecrets)
+A Rust implementation of threshold Shamir's secret sharing.
+
+## Consensus
+##### [Grin](https://github.com/mimblewimble/grin)
+Minimal implementation of the MimbleWimble protocol.
+
+##### [Tendermint ABCI](https://github.com/tendermint/rust-abci)
+A rust implementation of the ABCI protocol for tendermint core.
+
+##### [librustzcash](https://github.com/zcash/librustzcash)
+Rust-language assets for Zcash.
+
+##### [Raft](https://github.com/pingcap/raft-rs)
+Raft distributed consensus algorithm implemented in Rust.
+
 ##### [Substrate](https://github.com/paritytech/substrate)
  Substrate: The platform for blockchain innovators.
  
+## P2P Network
 ##### [libp2p](https://github.com/libp2p/rust-libp2p)
 The Rust Implementation of libp2p networking stack.
 
 ##### [p2p](https://github.com/driftluo/p2p)
 A multiplexed p2p network framework that supports custom protocols.
 
+## Tool
 ##### [rust-eos](https://github.com/sagan-software/rust-eos)
 Rust crates for building smart contracts and full-stack applications on EOSIO blockchains.
 
