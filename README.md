@@ -1,4 +1,4 @@
-# Awesome Rust Blockchain
+# Awesome Blockchain Rust
 *Collect libraries and packages about blockchain in Rust. include: cryptography, distributed, p2p, consensus and so on*
 
 ## Blockchain
@@ -82,6 +82,21 @@ Rust library for decentralized private computation.
 ##### [RustySecrets](https://github.com/SpinResearch/RustySecrets)
 A Rust implementation of threshold Shamir's secret sharing.
 
+##### [Double Ratchet](https://github.com/sebastianv89/double-ratchet)
+Pure Rust implementation of the Double Ratchet algorithm. (communicate securely)
+
+##### [molasses](https://github.com/trailofbits/molasses)
+A Rust implementation of the Message Layer Security group messaging protocol.
+
+##### [BLS12-381](https://github.com/zkcrypto/bls12_381)
+Implementation of the BLS12-381 pairing-friendly elliptic curve group.
+
+##### [Jubjub](https://github.com/zkcrypto/jubjub)
+Implementation of the Jubjub elliptic curve group.
+
+##### [librustzcash](https://github.com/zcash/librustzcash)
+Rust-language assets for Zcash. (bellman-zk-SNARK, pairing-elliptic curves)
+
 ## Consensus
 ##### [Grin](https://github.com/mimblewimble/grin)
 Minimal implementation of the MimbleWimble protocol.
@@ -89,15 +104,9 @@ Minimal implementation of the MimbleWimble protocol.
 ##### [Tendermint ABCI](https://github.com/tendermint/rust-abci)
 A rust implementation of the ABCI protocol for tendermint core.
 
-##### [librustzcash](https://github.com/zcash/librustzcash)
-Rust-language assets for Zcash.
-
 ##### [Raft](https://github.com/pingcap/raft-rs)
 Raft distributed consensus algorithm implemented in Rust.
 
-##### [Substrate](https://github.com/paritytech/substrate)
- Substrate: The platform for blockchain innovators.
- 
 ## P2P Network
 ##### [libp2p](https://github.com/libp2p/rust-libp2p)
 The Rust Implementation of libp2p networking stack.
@@ -106,6 +115,9 @@ The Rust Implementation of libp2p networking stack.
 A multiplexed p2p network framework that supports custom protocols.
 
 ## Tool
+##### [Substrate](https://github.com/paritytech/substrate)
+Substrate: The platform for blockchain innovators.
+
 ##### [rust-eos](https://github.com/sagan-software/rust-eos)
 Rust crates for building smart contracts and full-stack applications on EOSIO blockchains.
 
