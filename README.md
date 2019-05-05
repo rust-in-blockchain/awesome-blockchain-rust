@@ -52,6 +52,24 @@ A rust implementation of the ABCI protocol for tendermint core.
 Rust-language assets for Zcash.
 
 ## Cryptography
+##### [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
+Fast and efficient ed25519 signing and verification in Rust.
+(dalek cryptography: curve25519, ed25519, x25519, bulletproofs, zkp, merlin)
+
+##### [ring](https://github.com/briansmith/ring)
+Safe, fast, small crypto using Rust.
+(curve25519, aes-gcm, sha-256, sha-384, sha-512, hmac, hkdf, pbkdf2, p-256, p-384, x25519, chacha20-poly1305, ed25519)
+
+##### [hashes](https://github.com/RustCrypto/hashes)
+Collection of cryptographic hash functions written in pure Rust.
+(sha1, sha2, sha3, md4, md5, BLAKE2, RIPEMD-160, RIPEMD-320, GOST94, Grøstl, Streebog, Whirlpool)
+
+##### [block-ciphers](https://github.com/RustCrypto/block-ciphers)
+Collection of block cipher algorithms written in pure Rust.
+(AES, Blowfish, DES + 3DES, Kuznyechik, Magma, RC2, Twofish)
+
+##### [rustls](https://github.com/ctz/rustls)
+A modern TLS library in Rust.
 
 ## Tool
 ##### [Substrate](https://github.com/paritytech/substrate)
