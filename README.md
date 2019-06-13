@@ -44,6 +44,9 @@ Programmable multi-asset chain.
 #### [zero-chain](https://github.com/LayerXcom/zero-chain)
 A privacy-preserving blockchain on Substrate.
 
+#### [NEAR](https://github.com/nearprotocol/nearcore)
+NEAR Protocol - scalable and usable blockchain
+
 ## Cryptography
 #### [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
 Fast and efficient ed25519 signing and verification in Rust.
@@ -129,6 +132,12 @@ peer-to-peer communications library for Rust based on QUIC protocol.
 ## Tool
 #### [Substrate](https://github.com/paritytech/substrate)
 Substrate: The platform for blockchain innovators.
+
+#### [TDN](https://github.com/placefortea/TDN)
+Trusted Distributed Network.
+
+#### [Rust-CC](https://github.com/rust-cc)
+Rust Cryptography Community: math, merkle, S/Kademlia, Mixed cryptosystem.
 
 #### [rust-eos](https://github.com/sagan-software/rust-eos)
 Rust crates for building smart contracts and full-stack applications on EOSIO blockchains.
