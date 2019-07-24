@@ -98,6 +98,7 @@
 
 ## Build Blockchain Infrastructure
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators.
+- [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 - [TDN](https://github.com/placefortea/TDN) Trusted Distributed Network.
 
 
