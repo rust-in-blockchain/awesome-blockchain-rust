@@ -33,10 +33,10 @@
 - [stream-ciphers](https://github.com/RustCrypto/stream-ciphers) Collection of stream cipher algorithms.
 
 #### Public-key Cryptography / Asymmetric Cryptography
-##### RSA
+###### RSA
 - [RSA](https://github.com/RustCrypto/RSA) RSA implementation in pure Rust. (PKCS1v1.5: Encryption & Decryption, Sign & Verify)
 
-##### DH
+###### DH
 - [x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) Fast and efficient ed25519 signing and verification in Rust. (dalek)
 
 #### One-way Hash Function
@@ -47,12 +47,19 @@
 - [MACs](https://github.com/RustCrypto/MACs) Message authentication code algorithms written in pure Rust. (CMAC, DAA, HMAC, PMAC)
 
 #### Digital Signature
-##### ECDSA
+###### ECDSA
 - [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) A pure-Rust implementation of group operations on Ristretto and Curve25519. (dalek)
 - [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) Fast and efficient ed25519 signing and verification in Rust. (dalek)
 - [signatures](https://github.com/RustCrypto/signatures) Cryptographic signature algorithms (e.g. ECDSA, Ed25519).
 - [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) Rust language bindings for Bitcoin secp256k1 library. (rust-bitcoin)
 - [libsecp256k1-rs](https://github.com/sorpaas/libsecp256k1-rs) Pure Rust Implementation of secp256k1. (Wei Tang)
+- [Jubjub](https://github.com/zkcrypto/jubjub) Implementation of the Jubjub elliptic curve group.
+- [BLS12-381](https://github.com/zkcrypto/bls12_381) Implementation of the BLS12-381 pairing-friendly elliptic curve group.
+
+###### Threshold Signature & Multi Party Signatures
+- [multi-party-ecdsa](https://github.com/KZen-networks/multi-party-ecdsa) Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
+- [multi-party-schnorr](https://github.com/KZen-networks/multi-party-schnorr) Rust implementation of multi-party Schnorr signatures over elliptic curves.
+
 
 #### Rseudo Random Number Generator (PRNG)
 - [rand](https://github.com/rust-random/rand) A Rust library for random number generation.
@@ -60,23 +67,23 @@
 #### Zero-Knowledge Proofs
 - [bulletproofs](https://github.com/dalek-cryptography/bulletproofs) A pure-Rust implementation of Bulletproofs using Ristretto.
 - [bellman](https://github.com/zkcrypto/bellman) zk-SNARK library. (zcash - librustzcash).
+- [bulletproofs](https://github.com/KZen-networks/bulletproofs) Bulletproof Rust implementation for Aggregated Range Proofs over multiple elliptic curves.
 - [rust-secp256k1-zkp](https://github.com/mimblewimble/rust-secp256k1-zkp)  ZKP fork for rust-secp256k1, adds wrappers for range proofs, pedersen commitments, etc
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum
 
 #### Homomorphic Encryption
 
 #### Others
+- [librustzcash](https://github.com/zcash/librustzcash) Rust-language assets for Zcash. (bellman-zk-SNARK, pairing-elliptic curves)
 - [zexe](https://github.com/scipr-lab/zexe) Rust library for decentralized private computation.
 - [RustySecrets](https://github.com/SpinResearch/RustySecrets) A Rust implementation of threshold Shamir's secret sharing.
 - [Double Ratchet](https://github.com/sebastianv89/double-ratchet) Pure Rust implementation of the Double Ratchet algorithm. (communicate securely).
 - [molasses](https://github.com/trailofbits/molasses) A Rust implementation of the Message Layer Security group messaging protocol.
-- [BLS12-381](https://github.com/zkcrypto/bls12_381) Implementation of the BLS12-381 pairing-friendly elliptic curve group.
-- [Jubjub](https://github.com/zkcrypto/jubjub) Implementation of the Jubjub elliptic curve group.
-- [librustzcash](https://github.com/zcash/librustzcash) Rust-language assets for Zcash. (bellman-zk-SNARK, pairing-elliptic curves)
 - [KDFs](https://github.com/RustCrypto/KDFs) Collection of Key Derivation Functions written in pure Rust.
 - [PAKEs](https://github.com/RustCrypto/PAKEs) Password-Authenticated Key Agreement protocols. (SRP, spake2)
 - [password-hashing](https://github.com/RustCrypto/password-hashing) Password-based key derivation functions. (PBKDF2, scrypt)
 - [rcmixed](https://github.com/rust-cc/rcmixed) Mixed cryptosystem. inspired by PGP.
+- [kms-secp256k1](https://github.com/KZen-networks/kms-secp256k1) Multi Party Key Management System (KMS) for Secp256k1 Elliptic curve based digital signatures.
 
 
 ## Consensus
@@ -105,6 +112,7 @@
 ## Build Dapp Tool
 - [rust-eos](https://github.com/sagan-software/rust-eos) Rust crates for building smart contracts and full-stack applications on EOSIO blockchains.
 - [rust-mosaic](https://github.com/OpenST/rust-mosaic) Asynchronous, heterogeneous composition of blockchains.
+
 
 ## Contribute
 Contributions are most welcome
