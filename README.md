@@ -42,6 +42,7 @@
 #### One-way Hash Function
 - [hashes](https://github.com/RustCrypto/hashes) Collection of cryptographic hash functions written in pure Rust. (sha1, sha2, sha3, md4, md5, BLAKE2, RIPEMD-160, RIPEMD-320, GOST94, Grøstl, Streebog, Whirlpool)
 - [tiny-keccak](https://github.com/debris/tiny-keccak) A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust.
+- [poseidon252](https://github.com/dusk-network/poseidon252) Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems.
 
 #### Message Authentication Code (MAC)
 - [MACs](https://github.com/RustCrypto/MACs) Message authentication code algorithms written in pure Rust. (CMAC, DAA, HMAC, PMAC)
@@ -71,6 +72,7 @@
 - [rust-secp256k1-zkp](https://github.com/mimblewimble/rust-secp256k1-zkp)  ZKP fork for rust-secp256k1, adds wrappers for range proofs, pedersen commitments, etc
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) A toolbox for zkSNARKs on Ethereum
 - [sonic](https://github.com/ebfull/sonic) a protocol for quickly verifiable, compact zero-knowledge proofs of arbitrary computations.
+- [Dusk-Zerocaf](https://github.com/dusk-network/dusk-zerocaf) Fast, efficient and bulletproof-friendly cryptographic operations.
 
 #### Homomorphic Encryption
 
@@ -86,6 +88,7 @@
 - [password-hashing](https://github.com/RustCrypto/password-hashing) Password-based key derivation functions. (PBKDF2, scrypt)
 - [rcmixed](https://github.com/rust-cc/rcmixed) Mixed cryptosystem. inspired by PGP.
 - [kms-secp256k1](https://github.com/KZen-networks/kms-secp256k1) Multi Party Key Management System (KMS) for Secp256k1 Elliptic curve based digital signatures.
+- [MLSAG](https://github.com/crypto-rs-go/MLSAG) Multilayered Linkable Spontaneous Anonymous Group, This particular version leverages Ristretto255.
 
 
 ## Consensus
