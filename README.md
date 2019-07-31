@@ -60,6 +60,7 @@
 ###### Threshold Signature & Multi Party Signatures
 - [multi-party-ecdsa](https://github.com/KZen-networks/multi-party-ecdsa) Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 - [multi-party-schnorr](https://github.com/KZen-networks/multi-party-schnorr) Rust implementation of multi-party Schnorr signatures over elliptic curves.
+- [threshold_crypto](https://github.com/poanetwork/threshold_crypto) A pairing-based threshold cryptosystem for collaborative decryption and signatures.
 
 
 #### Rseudo Random Number Generator (PRNG)
@@ -95,6 +96,7 @@
 - [Raft](https://github.com/pingcap/raft-rs) Raft distributed consensus algorithm implemented in Rust.
 - [parsec](https://github.com/maidsafe/parsec) Protocol for Asynchronous, Reliable, Secure and Efficient Consensus.
 - [Tendermint ABCI](https://github.com/tendermint/rust-abci) A rust implementation of the ABCI protocol for tendermint core.
+- [hbbft](https://github.com/poanetwork/hbbft) An implementation of the paper "Honey Badger of BFT Protocols" in Rust.
 
 
 ## P2P Network
