@@ -2,13 +2,13 @@
 
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
-- [Smart Contract Backends](#smart-contract-backends)
+- [Blockchains](#blockchains)
+- [Blockchain Frameworks](#blockchain-frameworks)
+- [Virtual Machines](#virtual-machines)
 - [General-Purpose Consensus](#consensus)
 - [P2P Network Libraries](#p2p-network)
 - [Cryptography](#cryptography)
 - [Other](#other)
-- [Blockchains](#blockchains)
-- [Blockchain Frameworks](#blockchain-frameworks)
 
 ## Blockchains
 - [CITA](https://github.com/cryptape/cita) A high performance blockchain kernel for enterprise users;
