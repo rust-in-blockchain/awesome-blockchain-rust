@@ -10,7 +10,33 @@
 - [Blockchains](#blockchains)
 - [Blockchain Frameworks](#blockchain-frameworks)
 
-## Smart Contract Backends
+## Blockchains
+- [CITA](https://github.com/cryptape/cita) A high performance blockchain kernel for enterprise users;
+- [CodeChain](https://github.com/CodeChain-io/codechain) Programmable multi-asset chain;
+- [Conflux](https://github.com/Conflux-Chain/conflux-rust) The Rust implementation of Conflux protocol;
+- [Darwinia](https://github.com/darwinia-network/darwinia) Relay chain of Darwinia Network, can connect to Polkadot as parachain in Polkadot Model;
+- [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
+- [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
+- [Holochain](https://github.com/holochain/holochain-rust) The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes;
+- [Libra](https://github.com/libra/libra) global currency and financial infrastructure that empowers billions of people;
+- [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
+- [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
+- [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) The Parity Bitcoin client;
+- [Parity Ethereum](https://github.com/paritytech/parity-ethereum) The fast, light, and robust EVM and WASM client;
+- [Parity Zcash](https://github.com/paritytech/parity-zcash) Rust implementation of Zcash protocol;
+- [Polkadot](https://github.com/paritytech/polkadot) Polkadot Node Implementation;
+- [Shasper](https://github.com/paritytech/shasper) Parity Shasper beacon chain implementation using the Substrate framework;
+- [Solana](https://github.com/solana-labs/solana) Blockchain Rebuilt for Scale;
+- [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
+- [Tendermint](https://github.com/tendermint/rust-abci) Though, Tendermint blockchain layer is implemented in Go, they have ABCI interface for Rust;
+- [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
+- [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
+
+## Blockchain Frameworks
+- [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
+- [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
+
+## Virtual Machines
 - [Wasmer](https://wasmer.io/) -- a convenient Rust wrapper over WebAssembly backends;
 - [Wasmtime & Lightbeam](https://github.com/CraneStation/wasmtime) -- Wasmtime -- JIT runtime, Lightbeam -- single-pass compiler for WebAssembly;
 - [Wasmi](https://github.com/paritytech/wasmi) -- WebAssembly interpreter;
@@ -37,32 +63,6 @@
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security.
-
-## Blockchains
-- [CITA](https://github.com/cryptape/cita) A high performance blockchain kernel for enterprise users;
-- [CodeChain](https://github.com/CodeChain-io/codechain) Programmable multi-asset chain;
-- [Conflux](https://github.com/Conflux-Chain/conflux-rust) The Rust implementation of Conflux protocol;
-- [Darwinia](https://github.com/darwinia-network/darwinia) Relay chain of Darwinia Network, can connect to Polkadot as parachain in Polkadot Model;
-- [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
-- [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
-- [Holochain](https://github.com/holochain/holochain-rust) The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes;
-- [Libra](https://github.com/libra/libra) global currency and financial infrastructure that empowers billions of people;
-- [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
-- [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
-- [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) The Parity Bitcoin client;
-- [Parity Ethereum](https://github.com/paritytech/parity-ethereum) The fast, light, and robust EVM and WASM client;
-- [Parity Zcash](https://github.com/paritytech/parity-zcash) Rust implementation of Zcash protocol;
-- [Polkadot](https://github.com/paritytech/polkadot) Polkadot Node Implementation;
-- [Shasper](https://github.com/paritytech/shasper) Parity Shasper beacon chain implementation using the Substrate framework;
-- [Solana](https://github.com/solana-labs/solana) Blockchain Rebuilt for Scale;
-- [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
-- [Tendermint](https://github.com/tendermint/rust-abci) Though, Tendermint blockchain layer is implemented in Go, they have ABCI interface for Rust;
-- [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
-- [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
-
-## Blockchain Frameworks
-- [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
-- [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 
 ## Contribute
 Contributions are most welcome
