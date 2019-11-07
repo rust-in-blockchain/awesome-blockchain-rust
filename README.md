@@ -18,6 +18,8 @@
 - [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
 - [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
 - [Holochain](https://github.com/holochain/holochain-rust) The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes;
+- [Huobi Chain](https://github.com/HuobiGroup/huobi-chain) The next generation high performance public chain for financial infrastructure.
+- [Interledger](https://github.com/interledger-rs/interledger-rs) An easy-to-use, high-performance Interledger implementation written in Rust.
 - [Libra](https://github.com/libra/libra) global currency and financial infrastructure that empowers billions of people;
 - [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
 - [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
