@@ -4,6 +4,7 @@
 
 - [Blockchains](#blockchains)
 - [Blockchain Frameworks](#blockchain-frameworks)
+- [Cross-Chain](#cross-chain)
 - [Virtual Machines](#virtual-machines)
 - [General-Purpose Consensus](#consensus)
 - [P2P Network Libraries](#p2p-network)
@@ -38,6 +39,9 @@
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
 - [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
+
+## Cross-Chain
+- [Comit](https://comit.network/) is an open protocol facilitating trustless cross-blockchain applications.
 
 ## Virtual Machines
 - [Wasmer](https://wasmer.io/) -- a convenient Rust wrapper over WebAssembly backends;
