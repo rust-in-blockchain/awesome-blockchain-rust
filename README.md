@@ -63,6 +63,7 @@
 
 ## Cryptography
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
+- [Dalek Cryptography](https://github.com/dalek-cryptography)
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security.
