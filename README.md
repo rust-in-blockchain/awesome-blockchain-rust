@@ -67,11 +67,12 @@
 - [routing](https://github.com/maidsafe/routing) Routing - specialised storage DHT.
 
 ## Cryptography
-- [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
-- [Dalek Cryptography](https://github.com/dalek-cryptography)
+- [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust);
+- [Dalek Cryptography](https://github.com/dalek-cryptography).
 
 ## Other
-- [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security.
+- [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
+- [tesseracts](https://github.com/adria0/tesseracts) -- A small block explorer for geth PoAs written in rust.
 
 ## Contribute
 Contributions are most welcome
