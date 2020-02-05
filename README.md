@@ -68,7 +68,8 @@
 
 ## Cryptography
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust);
-- [Dalek Cryptography](https://github.com/dalek-cryptography).
+- [Dalek Cryptography](https://github.com/dalek-cryptography);
+- [Za](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
