@@ -44,11 +44,12 @@
 - [Comit](https://comit.network/) is an open protocol facilitating trustless cross-blockchain applications.
 
 ## Virtual Machines
-- [Wasmer](https://wasmer.io/) -- a convenient Rust wrapper over WebAssembly backends;
-- [Wasmtime & Lightbeam](https://github.com/CraneStation/wasmtime) -- Wasmtime -- JIT runtime, Lightbeam -- single-pass compiler for WebAssembly;
-- [Wasmi](https://github.com/paritytech/wasmi) -- WebAssembly interpreter;
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm) -- RISC-V virtual machine;
-- [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) -- Parity implementation of EVM.
+- [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) -- Parity implementation of EVM;
+- [SVM](https://github.com/spacemeshos/svm) -- Spacemesh Virtual Machine;
+- [Wasmi](https://github.com/paritytech/wasmi) -- WebAssembly interpreter;
+- [Wasmer](https://wasmer.io/) -- a convenient Rust wrapper over WebAssembly backends;
+- [Wasmtime & Lightbeam](https://github.com/CraneStation/wasmtime) -- Wasmtime -- JIT runtime, Lightbeam -- single-pass compiler for WebAssembly.
 
 ## General-Purpose Consensus
 - [Raft](https://github.com/pingcap/raft-rs) Raft distributed consensus algorithm implemented in Rust;
