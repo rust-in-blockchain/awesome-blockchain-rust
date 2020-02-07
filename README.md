@@ -69,14 +69,16 @@
 ## Cryptography
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust);
 - [Dalek Cryptography](https://github.com/dalek-cryptography);
-- [Za!](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover.
+- [Za!](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover;
+- [OpenZKP](https://github.com/0xProject/OpenZKP) -- Pure Rust implementations of Zero-Knowledge Proof systems.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
 - [tesseracts](https://github.com/adria0/tesseracts) -- A small block explorer for geth PoAs written in rust.
 
+
 ## Contribute
-Contributions are most welcome
+Contributions are most welcome.
 
 
 ## License
