@@ -35,6 +35,7 @@
 - [Tendermint](https://github.com/tendermint/rust-abci) Though, Tendermint blockchain layer is implemented in Go, they have ABCI interface for Rust;
 - [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
 - [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
+- [zkSync](https://github.com/matter-labs/zksync) Matter Labs' scaling L2 engine secured by zero-knowledge proofs.
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
@@ -71,6 +72,7 @@
 - [Dalek Cryptography](https://github.com/dalek-cryptography);
 - [Za!](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover;
 - [OpenZKP](https://github.com/0xProject/OpenZKP) -- Pure Rust implementations of Zero-Knowledge Proof systems.
+- [bellman](https://github.com/matter-labs/bellman) -- ZKP framework with support for verification in Ethereum.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
