@@ -72,7 +72,6 @@
 - [Dalek Cryptography](https://github.com/dalek-cryptography);
 - [Za!](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover;
 - [OpenZKP](https://github.com/0xProject/OpenZKP) -- Pure Rust implementations of Zero-Knowledge Proof systems.
-- [bellman](https://github.com/matter-labs/bellman) -- ZKP framework with support for verification in Ethereum.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
