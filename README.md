@@ -79,7 +79,9 @@
 
 
 ## Contribute
-Contributions are most welcome.
+Contributions are most welcome. 
+
+GitHub: [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
 
 ## License
