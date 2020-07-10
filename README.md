@@ -23,6 +23,7 @@
 - [Huobi Chain](https://github.com/HuobiGroup/huobi-chain) The next generation high performance public chain for financial infrastructure.
 - [Interledger](https://github.com/interledger-rs/interledger-rs) An easy-to-use, high-performance Interledger implementation written in Rust.
 - [Libra](https://github.com/libra/libra) global currency and financial infrastructure that empowers billions of people;
+- [Lighthouse](https://github.com/sigp/lighthouse) Fast and secure Ethereum 2.0 client;
 - [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
 - [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) The Parity Bitcoin client;
