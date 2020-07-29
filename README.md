@@ -35,6 +35,7 @@
 - [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
 - [Tendermint](https://github.com/tendermint/rust-abci) Though, Tendermint blockchain layer is implemented in Go, they have ABCI interface for Rust;
 - [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
+- [Zebra](https://github.com/ZcashFoundation/zebra) An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
 - [zkSync](https://github.com/matter-labs/zksync) Matter Labs' scaling L2 engine secured by zero-knowledge proofs.
 
