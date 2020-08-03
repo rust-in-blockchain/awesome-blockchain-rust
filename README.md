@@ -33,7 +33,7 @@
 - [Shasper](https://github.com/paritytech/shasper) Parity Shasper beacon chain implementation using the Substrate framework;
 - [Solana](https://github.com/solana-labs/solana) Blockchain Rebuilt for Scale;
 - [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
-- [Tendermint](https://github.com/tendermint/rust-abci) Though, Tendermint blockchain layer is implemented in Go, they have ABCI interface for Rust;
+- [Tendermint](https://github.com/informalsystems/tendermint-rs) Tendermint is a high-performance blockchain consensus engine for Byzantine fault tolerant applications 
 - [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
 - [Zebra](https://github.com/ZcashFoundation/zebra) An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
@@ -42,12 +42,15 @@
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
 - [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
+- [Tendermint ABCI](https://github.com/tendermint/rust-abci) Tendermint ABCI server, written in the Rust programming language.
 
 ## Cross-Chain
 - [Comit](https://comit.network/) is an open protocol facilitating trustless cross-blockchain applications.
+- [IBC](https://github.com/informalsystems/ibc-rs) Rust implementation of the Interblockchain Communication Protocol (IBC).
 
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm) -- RISC-V virtual machine;
+- [CosmWasm](https://www.cosmwasm.com) -- Multi-chain smart contract platform built for the Cosmos ecosystem;
 - [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) -- Parity implementation of EVM;
 - [SVM](https://github.com/spacemeshos/svm) -- Spacemesh Virtual Machine;
 - [Wasmi](https://github.com/paritytech/wasmi) -- WebAssembly interpreter;
