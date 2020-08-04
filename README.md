@@ -18,6 +18,7 @@
 - [Darwinia](https://github.com/darwinia-network/darwinia) Relay chain of Darwinia Network, can connect to Polkadot as parachain in Polkadot Model;
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the decentralized web;
 - [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
+- [Forest](https://github.com/ChainSafe/forest) An implementation of Filecoin written in Rust;
 - [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
 - [Holochain](https://github.com/holochain/holochain-rust) The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes;
 - [Huobi Chain](https://github.com/HuobiGroup/huobi-chain) The next generation high performance public chain for financial infrastructure.
