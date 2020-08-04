@@ -32,6 +32,7 @@
 - [Polkadot](https://github.com/paritytech/polkadot) Polkadot Node Implementation;
 - [Shasper](https://github.com/paritytech/shasper) Parity Shasper beacon chain implementation using the Substrate framework;
 - [Solana](https://github.com/solana-labs/solana) Blockchain Rebuilt for Scale;
+- [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) Proof of Transfer blockchain from Blockstack;
 - [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
 - [Tendermint](https://github.com/informalsystems/tendermint-rs) Tendermint is a high-performance blockchain consensus engine for Byzantine fault tolerant applications 
 - [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
