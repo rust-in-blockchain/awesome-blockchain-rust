@@ -46,6 +46,7 @@
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
 - [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 - [Tendermint ABCI](https://github.com/tendermint/rust-abci) Tendermint ABCI server, written in the Rust programming language.
+- [Orga](https://github.com/nomic-io/orga) A high-performance state machine engine designed for Tendermint-based blockchain applications.
 
 ## Cross-Chain
 - [Comit](https://comit.network/) is an open protocol facilitating trustless cross-blockchain applications.
