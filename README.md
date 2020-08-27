@@ -27,6 +27,7 @@
 - [Lighthouse](https://github.com/sigp/lighthouse) Fast and secure Ethereum 2.0 client;
 - [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
 - [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
+- [Nomic](https://github.com/nomic-io/nomic) Nomic is a high-performance Bitcoin sidechain which is part of the Cosmos network.
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) The Parity Bitcoin client;
 - [Parity Ethereum](https://github.com/paritytech/parity-ethereum) The fast, light, and robust EVM and WASM client;
 - [Parity Zcash](https://github.com/paritytech/parity-zcash) Rust implementation of Zcash protocol;
