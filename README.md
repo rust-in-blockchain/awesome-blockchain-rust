@@ -85,6 +85,7 @@
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
 - [tesseracts](https://github.com/adria0/tesseracts) -- A small block explorer for geth PoAs written in rust.
+- [merk](https://github.com/nomic-io/merk) -- High performance Merkle key/value store written in Rust, based on RocksDB.
 
 
 ## Contribute
