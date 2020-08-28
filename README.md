@@ -27,6 +27,7 @@
 - [Lighthouse](https://github.com/sigp/lighthouse) Fast and secure Ethereum 2.0 client;
 - [NEAR](https://github.com/nearprotocol/nearcore) NEAR Protocol - scalable and usable blockchain;
 - [Nervos CKB](https://github.com/nervosnetwork/ckb) Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network;
+- [Nomic](https://github.com/nomic-io/nomic) Nomic is a high-performance Bitcoin sidechain which is part of the Cosmos network.
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) The Parity Bitcoin client;
 - [Parity Ethereum](https://github.com/paritytech/parity-ethereum) The fast, light, and robust EVM and WASM client;
 - [Parity Zcash](https://github.com/paritytech/parity-zcash) Rust implementation of Zcash protocol;
@@ -45,6 +46,7 @@
 - [Substrate](https://github.com/paritytech/substrate) Substrate: The platform for blockchain innovators;
 - [slingshot](https://github.com/stellar/slingshot) A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 - [Tendermint ABCI](https://github.com/tendermint/rust-abci) Tendermint ABCI server, written in the Rust programming language.
+- [Orga](https://github.com/nomic-io/orga) A high-performance state machine engine designed for Tendermint-based blockchain applications.
 
 ## Cross-Chain
 - [Comit](https://comit.network/) is an open protocol facilitating trustless cross-blockchain applications.
@@ -83,6 +85,7 @@
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
 - [tesseracts](https://github.com/adria0/tesseracts) -- A small block explorer for geth PoAs written in rust.
+- [merk](https://github.com/nomic-io/merk) -- High performance Merkle key/value store written in Rust, based on RocksDB.
 
 
 ## Contribute
