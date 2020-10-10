@@ -9,9 +9,13 @@
 - [General-Purpose Consensus](#consensus)
 - [P2P Network Libraries](#p2p-network)
 - [Cryptography](#cryptography)
+- [Layer2](#layer2)
+- [Dapps](#dapps)
 - [Other](#other)
 
 ## Blockchains
+- [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash)
+A library for creating and parsing Bitcoin Cash trasactions
 - [CITA](https://github.com/cryptape/cita) A high performance blockchain kernel for enterprise users;
 - [CodeChain](https://github.com/CodeChain-io/codechain) Programmable multi-asset chain;
 - [Conflux](https://github.com/Conflux-Chain/conflux-rust) The Rust implementation of Conflux protocol;
@@ -81,6 +85,18 @@
 - [Dalek Cryptography](https://github.com/dalek-cryptography);
 - [Za!](https://github.com/adria0/za) -- An experimental rust zksnarks compiler with embeeded bellman-bn128 prover;
 - [OpenZKP](https://github.com/0xProject/OpenZKP) -- Pure Rust implementations of Zero-Knowledge Proof systems.
+
+## Layer2
+- [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
+  is a Bitcoin Lightning library written in Rust.
+  The main crate, lightning, does not handle networking,
+  persistence, or any other I/O. Thus, it is runtime-agnostic,
+  but users must implement basic networking logic,
+  chain interactions, and disk storage.
+
+## Dapps
+- [Serum-dex](https://github.com/project-serum/serum-dex).
+A decentralized exchange built on Solana.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
