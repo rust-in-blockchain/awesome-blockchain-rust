@@ -21,6 +21,7 @@ A library for creating and parsing Bitcoin Cash trasactions
 - [Conflux](https://github.com/Conflux-Chain/conflux-rust) The Rust implementation of Conflux protocol;
 - [Darwinia](https://github.com/darwinia-network/darwinia) Relay chain of Darwinia Network, can connect to Polkadot as parachain in Polkadot Model;
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the decentralized web;
+- [Elrond](https://elrond.com/) Elrond (EGOLD( - scalable and usable blockchain, written is Rust and has smart contracts in Rust
 - [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
 - [Forest](https://github.com/ChainSafe/forest) An implementation of Filecoin written in Rust;
 - [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
