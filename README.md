@@ -7,7 +7,7 @@
 - [Cross-Chain](#cross-chain)
 - [Virtual Machines](#virtual-machines)
 - [General-Purpose Consensus](#consensus)
-- [P2P Network Libraries](#p2p-network)
+- [P2P Network Libraries](#p2p-network-libraries)
 - [Cryptography](#cryptography)
 - [Layer2](#layer2)
 - [Dapps](#dapps)
