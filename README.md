@@ -61,6 +61,7 @@ A library for creating and parsing Bitcoin Cash trasactions
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm) -- RISC-V virtual machine;
 - [CosmWasm](https://www.cosmwasm.com) -- Multi-chain smart contract platform built for the Cosmos ecosystem;
 - [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) -- Parity implementation of EVM;
+- [Lunatic](https://github.com/lunatic-solutions/lunatic) -- Erlang-inspired runtime for WebAssembly;
 - [SVM](https://github.com/spacemeshos/svm) -- Spacemesh Virtual Machine;
 - [Wasmi](https://github.com/paritytech/wasmi) -- WebAssembly interpreter;
 - [Wasmer](https://wasmer.io/) -- a convenient Rust wrapper over WebAssembly backends;
