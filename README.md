@@ -99,8 +99,8 @@ A library for creating and parsing Bitcoin Cash trasactions
 ## Dapps
 - [Serum-dex](https://github.com/project-serum/serum-dex).
 A decentralized exchange built on Solana.
-- [SewUp](https://github.com/second-state/SewUp)
-A library to help you build your Ethereum webassembly contract with Rust and just like develop in a common backend
+- [SewUp](https://github.com/second-state/SewUp).
+A library to help you build your Ethereum webassembly contract with Rust and just like develop in a common backend.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa) -- micro-framework for CLI tools with strong focus on security;
