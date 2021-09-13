@@ -24,6 +24,7 @@ A library for creating and parsing Bitcoin Cash trasactions
 - [Elrond](https://elrond.com/) Elrond (EGOLD( - scalable and usable blockchain, written is Rust and has smart contracts in Rust
 - [Exonum](https://github.com/exonum/exonum) An extensible open-source framework for creating private/permissioned blockchain applications;
 - [Forest](https://github.com/ChainSafe/forest) An implementation of Filecoin written in Rust;
+- [Gear](https://github.com/gear-tech/gear) Computational component of Polkadot network;
 - [Grin](https://github.com/mimblewimble/grin) Minimal implementation of the MimbleWimble protocol;
 - [Holochain](https://github.com/holochain/holochain-rust) The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes;
 - [Huobi Chain](https://github.com/HuobiGroup/huobi-chain) The next generation high performance public chain for financial infrastructure.
@@ -41,7 +42,7 @@ A library for creating and parsing Bitcoin Cash trasactions
 - [Solana](https://github.com/solana-labs/solana) Blockchain Rebuilt for Scale;
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) Proof of Transfer blockchain from Blockstack;
 - [Tari](https://github.com/tari-project) The Tari Digital Assets Protocol;
-- [Tendermint](https://github.com/informalsystems/tendermint-rs) Tendermint is a high-performance blockchain consensus engine for Byzantine fault tolerant applications 
+- [Tendermint](https://github.com/informalsystems/tendermint-rs) Tendermint is a high-performance blockchain consensus engine for Byzantine fault tolerant applications
 - [Witnet](https://github.com/witnet/witnet-rust) Open source implementation of Witnet decentralized oracle network protocol in Rust;
 - [Zebra](https://github.com/ZcashFoundation/zebra) An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain) A privacy-preserving blockchain on Substrate.
@@ -109,7 +110,7 @@ A library to help you build your Ethereum webassembly contract with Rust and jus
 
 
 ## Contribute
-Contributions are most welcome. 
+Contributions are most welcome.
 
 GitHub: [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
