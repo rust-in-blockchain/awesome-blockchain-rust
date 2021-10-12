@@ -2,16 +2,18 @@
 
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
-- [Blockchains](#blockchains)
-- [Blockchain Frameworks](#blockchain-frameworks)
-- [Cross-Chain](#cross-chain)
-- [Virtual Machines](#virtual-machines)
-- [General-Purpose Consensus](#consensus)
-- [P2P Network Libraries](#p2p-network-libraries)
-- [Cryptography](#cryptography)
-- [Layer2](#layer2)
-- [Dapps](#dapps)
-- [Other](#other)
+  - [Blockchains](#blockchains)
+  - [Blockchain Frameworks](#blockchain-frameworks)
+  - [Cross-Chain](#cross-chain)
+  - [Virtual Machines](#virtual-machines)
+  - [General-Purpose Consensus](#general-purpose-consensus)
+  - [P2P Network Libraries](#p2p-network-libraries)
+  - [Cryptography](#cryptography)
+  - [Layer2](#layer2)
+  - [Dapps](#dapps)
+  - [Other](#other)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Blockchains
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
@@ -69,6 +71,9 @@
   Rust implementation of Zcash protocol.
 - [Polkadot](https://github.com/paritytech/polkadot).
   Polkadot Node Implementation.
+- [Polymesh](https://github.com/PolymathNetwork/Polymesh).
+  The Polymesh blockchain (built on Substrate) is an identity orientated chain
+  for the issuance, lifecycle management and settlement of regulated securities.
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
