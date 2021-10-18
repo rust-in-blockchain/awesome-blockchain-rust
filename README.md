@@ -61,6 +61,8 @@
 - [Nomic](https://github.com/nomic-io/nomic).
   Nomic is a high-performance Bitcoin sidechain which is part of the
   Cosmos network.
+- [OpenEthereum](https://github.com/openethereum/openethereum).
+  The Ethereum Rust client
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin).
   The Parity Bitcoin client.
 - [Parity Ethereum](https://github.com/paritytech/parity-ethereum).
