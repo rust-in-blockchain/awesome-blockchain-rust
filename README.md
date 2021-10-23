@@ -14,8 +14,12 @@
 - [Other](#other)
 
 ## Blockchains
+- [Aleo](https://developer.aleo.org/aleo/getting_started/overview).
+  Leo is a rust flavoured zk language.
 - [Alpha Zero](https://alephzero.org/).
   DAG, PoS, snark smart contracts (substrate based).
+- [Anoma.network](https://anoma.network/).
+  PoS blockchain with privacy.
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
 - [CITA](https://github.com/cryptape/cita).
@@ -66,7 +70,7 @@
   Nomic is a high-performance Bitcoin sidechain which is part of the
   Cosmos network.
 - [Mina Protocol](https://github.com/ChainSafe/mina-rs).
-  A rust implemetation of the mina succinct blockchain.
+  A rust implementation of the mina succinct blockchain.
 - [Mir Protocol](https://mirprotocol.org/).
   A succinct blockchain powered by zero-knowledge proofs. (plonk based)
 - [OpenEthereum](https://github.com/openethereum/openethereum).
@@ -174,12 +178,16 @@
   Pure Rust implementations of Zero-Knowledge Proof systems.
 - [Microsoft Nova](https://github.com/microsoft/Nova).
   Rust recursive snark without trusted setup.
+- [Arkworks](https://github.com/arkworks-rs).
+  An ecosystem for developing and programming with zkSNARKs
 
 ## Layer2
 - [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
   ArbOS is the "operating system" that runs an eth Layer 2 on an Arbitrum chain,
 - [Noir language](https://github.com/noir-lang/noir).
   Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
+- [Penumbra](https://penumbra.zone/).
+  PoS network providing privacy to the Cosmos ecosystem.
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
   is a Bitcoin Lightning library written in Rust.
   The main crate, lightning, does not handle networking,
