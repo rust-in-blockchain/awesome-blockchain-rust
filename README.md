@@ -33,6 +33,8 @@
 - [Darwinia](https://github.com/darwinia-network/darwinia).
   Relay chain of Darwinia Network, can connect to Polkadot as
   parachain in Polkadot Model.
+- [Dusk.network](https://dusk.network/).
+  Privacy PoS using zk (plonk).
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the
   decentralized web.
 - [Elrond](https://elrond.com/).
