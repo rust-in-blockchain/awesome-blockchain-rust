@@ -22,6 +22,8 @@
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
   Programmable multi-asset chain.
+- [Concordium](https://concordium.com/).
+  Privacy centric (zk) PoS chain, yet with built in identities and rust smart contracts.
 - [Conflux](https://github.com/Conflux-Chain/conflux-rust).
   The Rust implementation of Conflux protocol.
 - [Darwinia](https://github.com/darwinia-network/darwinia).
