@@ -14,6 +14,8 @@
 - [Other](#other)
 
 ## Blockchains
+- [Alpha Zero](https://alephzero.org/).
+  DAG, PoS, snark smart contracts (substrate based).
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
 - [CITA](https://github.com/cryptape/cita).
@@ -61,6 +63,8 @@
 - [Nomic](https://github.com/nomic-io/nomic).
   Nomic is a high-performance Bitcoin sidechain which is part of the
   Cosmos network.
+- [Mir Protocol](https://mirprotocol.org/).
+  A succinct blockchain powered by zero-knowledge proofs. (plonk based)
 - [OpenEthereum](https://github.com/openethereum/openethereum).
   The Ethereum Rust client
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin).
@@ -90,8 +94,6 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
-- [zkSync](https://github.com/matter-labs/zksync).
-  Matter Labs' scaling L2 engine secured by zero-knowledge proofs.
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
@@ -168,12 +170,18 @@
   Pure Rust implementations of Zero-Knowledge Proof systems.
 
 ## Layer2
+- [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
+  ArbOS is the "operating system" that runs an eth Layer 2 on an Arbitrum chain,
+- [Noir language](https://github.com/noir-lang/noir).
+  Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
   is a Bitcoin Lightning library written in Rust.
   The main crate, lightning, does not handle networking,
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [zkSync](https://github.com/matter-labs/zksync).
+  Matter Labs' scaling eth L2 engine secured by zero-knowledge proofs.
 
 ## Dapps
 - [Serum-dex](https://github.com/project-serum/serum-dex).
