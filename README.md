@@ -65,6 +65,8 @@
 - [Nomic](https://github.com/nomic-io/nomic).
   Nomic is a high-performance Bitcoin sidechain which is part of the
   Cosmos network.
+- [Mina Protocol](https://github.com/ChainSafe/mina-rs).
+  A rust implemetation of the mina succinct blockchain.
 - [Mir Protocol](https://mirprotocol.org/).
   A succinct blockchain powered by zero-knowledge proofs. (plonk based)
 - [OpenEthereum](https://github.com/openethereum/openethereum).
@@ -170,6 +172,8 @@
   prover.
 - [OpenZKP](https://github.com/0xProject/OpenZKP).
   Pure Rust implementations of Zero-Knowledge Proof systems.
+- [Microsoft Nova](https://github.com/microsoft/Nova).
+  Rust recursive snark without trusted setup.
 
 ## Layer2
 - [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
