@@ -2,18 +2,18 @@
 
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
-  - [Blockchains](#blockchains)
-  - [Blockchain Frameworks](#blockchain-frameworks)
-  - [Cross-Chain](#cross-chain)
-  - [Virtual Machines](#virtual-machines)
-  - [General-Purpose Consensus](#general-purpose-consensus)
-  - [P2P Network Libraries](#p2p-network-libraries)
-  - [Cryptography](#cryptography)
-  - [Layer2](#layer2)
-  - [Dapps](#dapps)
-  - [Other](#other)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Blockchains](#blockchains)
+- [Blockchain Frameworks](#blockchain-frameworks)
+- [Cross-Chain](#cross-chain)
+- [Virtual Machines](#virtual-machines)
+- [General-Purpose Consensus](#general-purpose-consensus)
+- [P2P Network Libraries](#p2p-network-libraries)
+- [Cryptography](#cryptography)
+- [Layer2](#layer2)
+- [Dapps](#dapps)
+- [Other](#other)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Blockchains
 - [Aleo](https://developer.aleo.org/aleo/getting_started/overview).
