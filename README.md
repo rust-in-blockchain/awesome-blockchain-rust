@@ -14,17 +14,27 @@
 - [Other](#other)
 
 ## Blockchains
+- [Aleo](https://developer.aleo.org/aleo/getting_started/overview).
+  Leo is a rust flavoured zk language.
+- [Alpha Zero](https://alephzero.org/).
+  DAG, PoS, snark smart contracts (substrate based).
+- [Anoma.network](https://anoma.network/).
+  PoS blockchain with privacy.
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
 - [CITA](https://github.com/cryptape/cita).
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
   Programmable multi-asset chain.
+- [Concordium](https://concordium.com/).
+  Privacy centric (zk) PoS chain, yet with built in identities and rust smart contracts.
 - [Conflux](https://github.com/Conflux-Chain/conflux-rust).
   The Rust implementation of Conflux protocol.
 - [Darwinia](https://github.com/darwinia-network/darwinia).
   Relay chain of Darwinia Network, can connect to Polkadot as
   parachain in Polkadot Model.
+- [Dusk.network](https://dusk.network/).
+  Privacy PoS using zk (plonk).
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the
   decentralized web.
 - [Elrond](https://elrond.com/).
@@ -61,6 +71,10 @@
 - [Nomic](https://github.com/nomic-io/nomic).
   Nomic is a high-performance Bitcoin sidechain which is part of the
   Cosmos network.
+- [Mina Protocol](https://github.com/ChainSafe/mina-rs).
+  A rust implementation of the mina succinct blockchain.
+- [Mir Protocol](https://mirprotocol.org/).
+  A succinct blockchain powered by zero-knowledge proofs. (plonk based)
 - [OpenEthereum](https://github.com/openethereum/openethereum).
   The Ethereum Rust client
 - [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin).
@@ -90,8 +104,6 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
-- [zkSync](https://github.com/matter-labs/zksync).
-  Matter Labs' scaling L2 engine secured by zero-knowledge proofs.
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
@@ -166,14 +178,26 @@
   prover.
 - [OpenZKP](https://github.com/0xProject/OpenZKP).
   Pure Rust implementations of Zero-Knowledge Proof systems.
+- [Microsoft Nova](https://github.com/microsoft/Nova).
+  Rust recursive snark without trusted setup.
+- [Arkworks](https://github.com/arkworks-rs).
+  An ecosystem for developing and programming with zkSNARKs
 
 ## Layer2
+- [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
+  ArbOS is the "operating system" that runs an eth Layer 2 on an Arbitrum chain,
+- [Noir language](https://github.com/noir-lang/noir).
+  Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
+- [Penumbra](https://penumbra.zone/).
+  PoS network providing privacy to the Cosmos ecosystem.
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
   is a Bitcoin Lightning library written in Rust.
   The main crate, lightning, does not handle networking,
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [zkSync](https://github.com/matter-labs/zksync).
+  Matter Labs' scaling eth L2 engine secured by zero-knowledge proofs.
 
 ## Dapps
 - [Serum-dex](https://github.com/project-serum/serum-dex).
