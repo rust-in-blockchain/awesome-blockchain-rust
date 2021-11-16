@@ -18,7 +18,7 @@
 ## Blockchains
 - [Aleo](https://developer.aleo.org/aleo/getting_started/overview).
   Leo is a rust flavoured zk language.
-- [Alpha Zero](https://alephzero.org/).
+- [Aleph Zero](https://alephzero.org/).
   DAG, PoS, snark smart contracts (substrate based).
 - [Anoma.network](https://anoma.network/).
   PoS blockchain with privacy.
