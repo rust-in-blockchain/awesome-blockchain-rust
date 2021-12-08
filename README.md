@@ -60,6 +60,8 @@
 - [Interledger](https://github.com/interledger-rs/interledger-rs).
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
+- [Internet of People](https://github.com/Internet-of-People/iop-rs).
+  Decentralized software stack that provides the building blocks and tools to support a decentralized society.
 - [Libra](https://github.com/libra/libra).
   Global currency and financial infrastructure that empowers billions
   of people.
@@ -126,7 +128,7 @@
 - [Comit](https://comit.network/) is an open protocol facilitating
   trustless cross-blockchain applications.
 - [IBC](https://github.com/informalsystems/ibc-rs).
-  Rust implementation of the Interblockchain Communication Protocol
+  Rust implementation of Cosmos' Interblockchain Communication Protocol
   (IBC).
 
 ## Virtual Machines
@@ -138,6 +140,8 @@
   Parity implementation of EVM.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
+- [Polygon Miden](https://github.com/maticnetwork/miden).
+  SNARK based VM
 - [SVM](https://github.com/spacemeshos/svm)
   Spacemesh Virtual Machine.
 - [Wasmi](https://github.com/paritytech/wasmi).
@@ -146,6 +150,8 @@
   A convenient Rust wrapper over WebAssembly backends.
 - [Wasmtime](https://github.com/CraneStation/wasmtime).
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
+- [Zinc](https://github.com/matter-labs/zinc).
+  Zinc zk smart contract language.
 
 ## General-Purpose Consensus
 - [Raft](https://github.com/pingcap/raft-rs).
