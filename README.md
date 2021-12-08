@@ -111,6 +111,8 @@
 - [Witnet](https://github.com/witnet/witnet-rust).
   Open source implementation of Witnet decentralized oracle network
   protocol in Rust.
+- [xx-network](https://github.com/xx-labs/xxchain).
+  Post-quantum blockchain with integrated mixnet privacy against metadata snooping.
 - [Zebra](https://github.com/ZcashFoundation/zebra).
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
