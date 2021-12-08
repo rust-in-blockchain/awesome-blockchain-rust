@@ -96,6 +96,8 @@
   for the issuance, lifecycle management and settlement of regulated securities.
 - [QAN](https://github.com/QANplatform/its_alivehttps://github.com/QANplatform/its_alive).
   Post-quantum blockchain
+- [Radix](https://github.com/radixdlt/radixdlt-scrypto).
+  Sharded smart contract DeFi platform.
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
