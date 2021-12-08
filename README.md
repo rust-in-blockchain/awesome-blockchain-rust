@@ -92,6 +92,8 @@
 - [Polymesh](https://github.com/PolymathNetwork/Polymesh).
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
+- [QAN](https://github.com/QANplatform/its_alivehttps://github.com/QANplatform/its_alive).
+  Post-quantum blockchain
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
