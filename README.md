@@ -61,7 +61,8 @@
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
 - [Internet of People](https://github.com/Internet-of-People/iop-rs).
-  Decentralized software stack that provides the building blocks and tools to support a decentralized society.
+  Decentralized software stack that provides the building blocks and
+  tools to support a decentralized society.
 - [Libra](https://github.com/libra/libra).
   Global currency and financial infrastructure that empowers billions
   of people.
@@ -94,8 +95,8 @@
 - [Polymesh](https://github.com/PolymathNetwork/Polymesh).
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
-- [QAN](https://github.com/QANplatform/its_alivehttps://github.com/QANplatform/its_alive).
-  Post-quantum blockchain
+- [QAN](https://github.com/QANplatform/its_alive).
+  Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
 - [Shasper](https://github.com/paritytech/shasper).
@@ -149,7 +150,7 @@
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
 - [Polygon Miden](https://github.com/maticnetwork/miden).
-  SNARK based VM
+  SNARK based VM.
 - [SVM](https://github.com/spacemeshos/svm)
   Spacemesh Virtual Machine.
 - [Wasmi](https://github.com/paritytech/wasmi).
