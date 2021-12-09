@@ -72,7 +72,7 @@
 - [Nervos CKB](https://github.com/nervosnetwork/ckb).
   Nervos CKB is a public permissionless blockchain, the common
   knowledge layer of Nervos network.
-- [NIM](https://github.com/nymtech/nym).
+- [NYM](https://github.com/nymtech/nym).
   Selective privacy via a mixnet preventing metadata analysis.
 - [Nomic](https://github.com/nomic-io/nomic).
   Nomic is a high-performance Bitcoin sidechain which is part of the
