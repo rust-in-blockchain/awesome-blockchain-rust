@@ -51,7 +51,7 @@
   Computational component of Polkadot network.
 - [Grin](https://github.com/mimblewimble/grin).
   Minimal implementation of the MimbleWimble protocol.
-- [Holochain](https://github.com/holochain/holochain-rust).
+- [Holochain](https://github.com/holochain/holochain).
   The core Holochain framework written in rust, a container, and
   hdk-rust library for writing Zomes.
 - [Huobi Chain](https://github.com/HuobiGroup/huobi-chain).
