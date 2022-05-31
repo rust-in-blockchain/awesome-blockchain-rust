@@ -174,6 +174,8 @@
 - [Honey Badger](https://github.com/poanetwork/hbbft).
   An implementation of the paper "Honey Badger of BFT Protocols" in
   Rust.
+- [Narwhal](https://github.com/MystenLabs/narwhal).
+  The consensus layer used by Sui.
 
 ## P2P Network Libraries
 - [chamomile](https://github.com/placefortea/chamomile).
