@@ -101,6 +101,10 @@
   Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
+- [Setheum](https://github.com/Setheum-Labs/Setheum).
+  SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
+  is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving
+  mass adoption, security, scalability, affordability, inclusivity and ethical DeFi Governance.
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
