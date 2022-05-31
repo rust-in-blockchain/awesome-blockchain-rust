@@ -173,8 +173,6 @@
 ## General-Purpose Consensus
 - [Raft](https://github.com/pingcap/raft-rs).
   Raft distributed consensus algorithm implemented in Rust.
-- [parsec](https://github.com/maidsafe/parsec).
-  Protocol for Asynchronous, Reliable, Secure and Efficient Consensus.
 - [Honey Badger](https://github.com/poanetwork/hbbft).
   An implementation of the paper "Honey Badger of BFT Protocols" in
   Rust.
