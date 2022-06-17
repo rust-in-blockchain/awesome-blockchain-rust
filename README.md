@@ -233,6 +233,7 @@
 - [SewUp](https://github.com/second-state/SewUp).
   A library to help you build your Ethereum webassembly contract with
   Rust and just like develop in a common backend.
+- [Sienna Network](https://github.com/SiennaNetwork/SiennaNetwork) - Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa).
