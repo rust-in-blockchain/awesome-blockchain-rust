@@ -48,7 +48,7 @@
 - [Forest](https://github.com/ChainSafe/forest).
   An implementation of Filecoin written in Rust.
 - [Fuel](https://github.com/FuelLabs/fuel-core).
-  Rust full node implementation of the Fuel v2 protocol.
+  Rust full node implementation of the Fuel protocol.
 - [Gear](https://github.com/gear-tech/gear).
   Computational component of Polkadot network.
 - [Grin](https://github.com/mimblewimble/grin).
@@ -154,7 +154,7 @@
 - [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin).
   Parity implementation of EVM.
 - [FuelVM](https://github.com/FuelLabs/fuel-vm)
-  FuelVM interpreter in Rust.
+  Interpreter for the FuelVM, a blazingly fast blockchain virtual machine.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
 - [Polygon Miden](https://github.com/maticnetwork/miden).
