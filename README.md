@@ -24,6 +24,8 @@
   PoS blockchain with privacy.
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
+- [Casper](https://github.com/casper-network/casper-node).
+  A decentralized L1 PoS blockchain designed to accelerate enterprise and developer adoption.
 - [CITA](https://github.com/cryptape/cita).
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
