@@ -117,7 +117,9 @@
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain).
   Proof of Transfer blockchain from Blockstack.
 - [Sui Network](https://sui.io/).
-  A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+  A next-generation smart contract platform with high throughput, low
+  latency, and an asset-oriented programming model powered by the Move
+  programming language.
 - [Tari](https://github.com/tari-project).
   The Tari Digital Assets Protocol.
 - [Tendermint](https://github.com/informalsystems/tendermint-rs).
