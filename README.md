@@ -22,6 +22,8 @@
   DAG, PoS, snark smart contracts (substrate based).
 - [Anoma.network](https://anoma.network/).
   PoS blockchain with privacy.
+- [Aptos Network](https://aptoslabs.com/).
+  Building the safest and most scalable Layer 1 blockchain..
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
 - [Casper](https://github.com/casper-network/casper-node).
@@ -114,6 +116,8 @@
   Blockchain Rebuilt for Scale.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain).
   Proof of Transfer blockchain from Blockstack.
+- [Sui Network](https://sui.io/).
+  A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 - [Tari](https://github.com/tari-project).
   The Tari Digital Assets Protocol.
 - [Tendermint](https://github.com/informalsystems/tendermint-rs).
