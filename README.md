@@ -146,7 +146,8 @@
 - [Orga](https://github.com/nomic-io/orga).
   A high-performance state machine engine designed for
   Tendermint-based blockchain applications.
-
+- [Anchor](https://github.com/coral-xyz/anchor)
+  is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 ## Cross-Chain
 - [Comit](https://comit.network/) is an open protocol facilitating
   trustless cross-blockchain applications.
