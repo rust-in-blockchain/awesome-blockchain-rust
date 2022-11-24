@@ -66,6 +66,9 @@
 - [Interledger](https://github.com/interledger-rs/interledger-rs).
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
+- [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic).
+  The world’s first blockchain that runs at web speed and can increase 
+  its capacity without bound.
 - [Internet of People](https://github.com/Internet-of-People/iop-rs).
   Decentralized software stack that provides the building blocks and
   tools to support a decentralized society.
