@@ -46,6 +46,8 @@
 - [Elrond](https://elrond.com/).
   Elrond (EGOLD( - scalable and usable blockchain, written is Rust and
   has smart contracts in Rust.
+- [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
+  An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Exonum](https://github.com/exonum/exonum).
   An extensible open-source framework for creating
   private/permissioned blockchain applications.
