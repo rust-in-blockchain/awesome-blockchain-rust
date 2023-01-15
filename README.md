@@ -155,11 +155,10 @@
 ## Cross-Chain
 - [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API).
   Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).
-- [Comit](https://comit.network/) is an open protocol facilitating
-  trustless cross-blockchain applications.
+- [Comit](https://github.com/comit-network/).
+  An open protocol facilitating trustless cross-blockchain applications.
 - [IBC](https://github.com/informalsystems/ibc-rs).
-  Rust implementation of Cosmos' Interblockchain Communication Protocol
-  (IBC).
+  Rust implementation of Cosmos' Interblockchain Communication Protocol (IBC).
 
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
