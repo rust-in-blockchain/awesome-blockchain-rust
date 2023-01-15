@@ -258,7 +258,8 @@
 - [merk](https://github.com/nomic-io/merk).
   High performance Merkle key/value store written in Rust, based on
   RocksDB.
-
+- [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
+  An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 
 ## Contribute
 Contributions are most welcome.
