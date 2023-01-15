@@ -151,8 +151,9 @@
   Tendermint-based blockchain applications.
 - [Anchor](https://github.com/coral-xyz/anchor)
   is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
+
 ## Cross-Chain
-- [AtomicDEX](https://atomicdex.io).
+- [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API).
   Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).
 - [Comit](https://comit.network/) is an open protocol facilitating
   trustless cross-blockchain applications.
