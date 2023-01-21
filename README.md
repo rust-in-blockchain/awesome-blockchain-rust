@@ -251,6 +251,7 @@
   A privacy-first and cross-chain decentralized finance platform where
   you can privately swap, lend and convert your tokens into their
   private equivalent.
+- [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate for Substrate-based networks. Includes ink! smart contracts and a React frontend using the [useInkathon](https://github.com/scio-labs/use-inkathon) hooks library maintained by [Scio Labs](https://scio.xyz).
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa).
