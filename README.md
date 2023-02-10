@@ -263,7 +263,7 @@
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain).
-  Complete Roadmap to become a Blockchain Developer.
+  Complete guide to become a Blockchain Developer.
 
 ## Contribute
 Contributions are most welcome.
