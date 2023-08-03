@@ -43,9 +43,8 @@
   Privacy PoS using zk (plonk).
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the
   decentralized web.
-- [Elrond](https://elrond.com/).
-  Elrond (EGOLD( - scalable and usable blockchain, written is Rust and
-  has smart contracts in Rust.
+- [MultiversX](https://github.com/multiversx).
+  Sharded Smart Contracts execution platform with a PoS consensus mechanism.
 - [Exonum](https://github.com/exonum/exonum).
   An extensible open-source framework for creating
   private/permissioned blockchain applications.
