@@ -168,6 +168,8 @@
   Parity implementation of EVM.
 - [FuelVM](https://github.com/FuelLabs/fuel-vm)
   Interpreter for the FuelVM, a blazingly fast blockchain virtual machine.
+- [FVM](https://github.com/filecoin-project/ref-fvm)
+  The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
 - [Polygon Miden](https://github.com/maticnetwork/miden).
