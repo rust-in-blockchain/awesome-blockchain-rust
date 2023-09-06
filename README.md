@@ -107,6 +107,8 @@
   Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
+- [RsNano](https://www.rsnano.com)
+  A rust port of Nano: the eco-friendly & feeless digital currency
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
   SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
   is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving
