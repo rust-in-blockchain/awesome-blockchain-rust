@@ -16,13 +16,13 @@
 - [License](#license)
 
 ## Blockchains
-- [Aleo](https://developer.aleo.org/aleo/getting_started/overview).
-  Leo is a rust flavoured zk language.
-- [Aleph Zero](https://alephzero.org/).
+- [Aleo](https://github.com/AleoHQ).
+  A blockchain with zero-knowledge transactions.
+- [Aleph Zero](https://github.com/aleph-zero-foundation).
   DAG, PoS, snark smart contracts (substrate based).
-- [Anoma.network](https://anoma.network/).
+- [Anoma.network](https://github.com/anoma).
   PoS blockchain with privacy.
-- [Aptos Network](https://aptoslabs.com/).
+- [Aptos Network](https://github.com/aptos-labs).
   Building the safest and most scalable Layer 1 blockchain..
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash transactions.
@@ -32,14 +32,14 @@
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
   Programmable multi-asset chain.
-- [Concordium](https://concordium.com/).
+- [Concordium](https://github.com/Concordium).
   Privacy centric (zk) PoS chain, yet with built in identities and rust smart contracts.
 - [Conflux](https://github.com/Conflux-Chain/conflux-rust).
   The Rust implementation of Conflux protocol.
 - [Darwinia](https://github.com/darwinia-network/darwinia).
   Relay chain of Darwinia Network, can connect to Polkadot as
   parachain in Polkadot Model.
-- [Dusk.network](https://dusk.network/).
+- [Dusk.network](https://github.com/dusk-network).
   Privacy PoS using zk (plonk).
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the
   decentralized web.
@@ -88,7 +88,7 @@
   Cosmos network.
 - [Mina Protocol](https://github.com/ChainSafe/mina-rs).
   A rust implementation of the mina succinct blockchain.
-- [Mir Protocol](https://mirprotocol.org/).
+- [Mir Protocol](https://github.com/mir-protocol).
   A succinct blockchain powered by zero-knowledge proofs. (plonk based)
 - [OpenEthereum](https://github.com/openethereum/openethereum).
   The Ethereum Rust client
@@ -107,7 +107,7 @@
   Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
-- [RsNano](https://www.rsnano.com)
+- [RsNano](https://github.com/simpago/rsnano-node).
   A rust port of Nano: the eco-friendly & feeless digital currency
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
   SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
@@ -120,7 +120,7 @@
   Blockchain Rebuilt for Scale.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain).
   Proof of Transfer blockchain from Blockstack.
-- [Sui Network](https://sui.io/).
+- [Sui Network](https://github.com/MystenLabs/sui).
   A next-generation smart contract platform with high throughput, low
   latency, and an asset-oriented programming model powered by the Move
   programming language.
@@ -164,13 +164,13 @@
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
   RISC-V virtual machine.
-- [CosmWasm](https://www.cosmwasm.com).
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm).
   Multi-chain smart contract platform built for the Cosmos ecosystem.
 - [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin).
   Parity implementation of EVM.
-- [FuelVM](https://github.com/FuelLabs/fuel-vm)
+- [FuelVM](https://github.com/FuelLabs/fuel-vm).
   Interpreter for the FuelVM, a blazingly fast blockchain virtual machine.
-- [FVM](https://github.com/filecoin-project/ref-fvm)
+- [FVM](https://github.com/filecoin-project/ref-fvm).
   The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
@@ -180,7 +180,7 @@
   Spacemesh Virtual Machine.
 - [Wasmi](https://github.com/paritytech/wasmi).
   WebAssembly interpreter.
-- [Wasmer](https://wasmer.io/).
+- [Wasmer](https://github.com/wasmerio/wasmer).
   A convenient Rust wrapper over WebAssembly backends.
 - [Wasmtime](https://github.com/CraneStation/wasmtime).
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
@@ -233,7 +233,7 @@
   ArbOS is the "operating system" that runs an eth Layer 2 on an Arbitrum chain,
 - [Noir language](https://github.com/noir-lang/noir).
   Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
-- [Penumbra](https://penumbra.zone/).
+- [Penumbra](https://github.com/penumbra-zone/penumbra).
   PoS network providing privacy to the Cosmos ecosystem.
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
   is a Bitcoin Lightning library written in Rust.
