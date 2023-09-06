@@ -25,7 +25,7 @@
 - [Aptos Network](https://aptoslabs.com/).
   Building the safest and most scalable Layer 1 blockchain..
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
-  A library for creating and parsing Bitcoin Cash trasactions.
+  A library for creating and parsing Bitcoin Cash transactions.
 - [Casper](https://github.com/casper-network/casper-node).
   A decentralized L1 PoS blockchain designed to accelerate enterprise and developer adoption.
 - [CITA](https://github.com/cryptape/cita).
