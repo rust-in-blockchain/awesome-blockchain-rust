@@ -158,8 +158,10 @@
   Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).
 - [Comit](https://github.com/comit-network/).
   An open protocol facilitating trustless cross-blockchain applications.
-- [IBC](https://github.com/informalsystems/ibc-rs).
-  Rust implementation of Cosmos' Interblockchain Communication Protocol (IBC).
+- [ibc-rs](https://github.com/cosmos/ibc-rs).
+  Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
+- [Hermes](https://github.com/informalsystems/hermes).
+  Rust implementation of an Inter-Blockchain Communication (IBC) relayer.
 
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
