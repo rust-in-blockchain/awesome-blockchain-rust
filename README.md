@@ -145,7 +145,7 @@
 - [slingshot](https://github.com/stellar/slingshot).
   A new blockchain architecture under active development, with a
   strong focus on scalability, privacy and safety.
-- [Tendermint ABCI](https://github.com/tendermint/rust-abci).
+- [Tendermint ABCI](https://github.com/informalsystems/tendermint-rs/tree/master/abci).
   Tendermint ABCI server, written in the Rust programming language.
 - [Orga](https://github.com/nomic-io/orga).
   A high-performance state machine engine designed for
