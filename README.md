@@ -28,6 +28,8 @@
   A library for creating and parsing Bitcoin Cash transactions.
 - [Casper](https://github.com/casper-network/casper-node).
   A decentralized L1 PoS blockchain designed to accelerate enterprise and developer adoption.
+- [Chainflip](https://github.com/chainflip-io/chainflip-backend/).
+  Native Cross-Chain Swaps.
 - [CITA](https://github.com/cryptape/cita).
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
