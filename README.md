@@ -78,6 +78,8 @@
   of people.
 - [Lighthouse](https://github.com/sigp/lighthouse).
   Fast and secure Ethereum 2.0 client.
+- [Namada](https://github.com/anoma/namada).
+  Proof-of-Stake L1 for interchain asset-agnostic privacy.
 - [NEAR](https://github.com/nearprotocol/nearcore).
   NEAR Protocol - scalable and usable blockchain.
 - [Nervos CKB](https://github.com/nervosnetwork/ckb).
