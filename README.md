@@ -166,6 +166,8 @@
   Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [Hermes](https://github.com/informalsystems/hermes).
   Rust implementation of an Inter-Blockchain Communication (IBC) relayer.
+- [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo).
+  Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
