@@ -2,18 +2,19 @@
 
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
-- [Blockchains](#blockchains)
-- [Blockchain Frameworks](#blockchain-frameworks)
-- [Cross-Chain](#cross-chain)
-- [Virtual Machines](#virtual-machines)
-- [General-Purpose Consensus](#general-purpose-consensus)
-- [P2P Network Libraries](#p2p-network-libraries)
-- [Cryptography](#cryptography)
-- [Layer2](#layer2)
-- [Dapps](#dapps)
-- [Other](#other)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Blockchain Rust](#awesome-blockchain-rust)
+  - [Blockchains](#blockchains)
+  - [Blockchain Frameworks](#blockchain-frameworks)
+  - [Cross-Chain](#cross-chain)
+  - [Virtual Machines](#virtual-machines)
+  - [General-Purpose Consensus](#general-purpose-consensus)
+  - [P2P Network Libraries](#p2p-network-libraries)
+  - [Cryptography](#cryptography)
+  - [Layer2](#layer2)
+  - [Dapps](#dapps)
+  - [Other](#other)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Blockchains
 - [Aleo](https://github.com/AleoHQ).
@@ -182,6 +183,7 @@
   The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
+- [Nexus](https://github.com/nexus-xyz/nexus-zkvm). The Nexus zkVM: a modular, extensible, open-source, recursive zkVM, focused on security and performance.
 - [Polygon Miden](https://github.com/maticnetwork/miden).
   SNARK based VM.
 - [SVM](https://github.com/spacemeshos/svm)
