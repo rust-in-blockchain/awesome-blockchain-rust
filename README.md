@@ -16,8 +16,8 @@
 - [License](#license)
 
 ## Blockchains
-- [Aleo](https://github.com/AleoHQ).
-  A blockchain with zero-knowledge transactions.
+- [Aleo](https://github.com/AleoNet/snarkOS).
+  Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
   DAG, PoS, snark smart contracts (substrate based).
 - [Anoma.network](https://github.com/anoma).
@@ -61,9 +61,6 @@
 - [Holochain](https://github.com/holochain/holochain).
   The core Holochain framework written in rust, a container, and
   hdk-rust library for writing Zomes.
-- [Huobi Chain](https://github.com/HuobiGroup/huobi-chain).
-  The next generation high performance public chain for financial
-  infrastructure.
 - [Interledger](https://github.com/interledger-rs/interledger-rs).
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
@@ -107,8 +104,6 @@
 - [Polymesh](https://github.com/PolymathNetwork/Polymesh).
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
-- [QAN](https://github.com/QANplatform/its_alive).
-  Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
 - [RsNano](https://github.com/simpago/rsnano-node).
