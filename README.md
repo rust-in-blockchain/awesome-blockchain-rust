@@ -155,7 +155,7 @@
 ## Cross-Chain
 - [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API).
   Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).
-- [Comit](https://github.com/comit-network/).
+- [Commit](https://github.com/comit-network/).
   An open protocol facilitating trustless cross-blockchain applications.
 - [ibc-rs](https://github.com/cosmos/ibc-rs).
   Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
