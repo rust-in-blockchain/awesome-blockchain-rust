@@ -45,6 +45,8 @@
   Privacy PoS using zk (plonk).
 - [Enigma](https://github.com/enigmampc/enigma-core) secures the
   decentralized web.
+- [Ethrex](https://github.com/lambdaclass/ethrex).
+  Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 - [MultiversX](https://github.com/multiversx).
   Sharded Smart Contracts execution platform with a PoS consensus mechanism.
 - [Exonum](https://github.com/exonum/exonum).
