@@ -167,6 +167,8 @@
   Rust implementation of an Inter-Blockchain Communication (IBC) relayer.
 - [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo).
   Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
+- [NanoStack](https://github.com/nano-labs-io/nanostack-api).
+  Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 
 ## Virtual Machines
 - [CKB-VM](https://github.com/nervosnetwork/ckb-vm).
