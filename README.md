@@ -110,6 +110,8 @@
   Sharded smart contract DeFi platform.
 - [RsNano](https://github.com/simpago/rsnano-node).
   A rust port of Nano: the eco-friendly & feeless digital currency
+- [RustChain](https://rustchain.org).
+  A high-performance blockchain designed for autonomous agent economies. Enables AI agents to earn, transact, and participate in decentralized governance through native token rewards for content creation, curation, and ecosystem contributions.
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
   SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
   is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving
