@@ -108,6 +108,8 @@
   for the issuance, lifecycle management and settlement of regulated securities.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
+- [RustChain](https://github.com/Scottcjn/rustchain-bounties).
+  Decentralized proof-of-stake blockchain with attestation-based consensus and RTC token economy.
 - [RsNano](https://github.com/simpago/rsnano-node).
   A rust port of Nano: the eco-friendly & feeless digital currency
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
