@@ -109,6 +109,7 @@
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
 - [RsNano](https://github.com/simpago/rsnano-node).
+- [RustChain](https://github.com/Scottcjn/Rustchain). The blockchain where old hardware outearns new hardware — Proof of Antiquity consensus rewards vintage hardware.
   A rust port of Nano: the eco-friendly & feeless digital currency
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
   SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
