@@ -234,6 +234,8 @@
   Rust recursive snark without trusted setup.
 - [Arkworks](https://github.com/arkworks-rs).
   An ecosystem for developing and programming with zkSNARKs
+- [zap1-verify](https://github.com/Frontier-Compute/zap1-verify).
+  BLAKE2b Merkle proof verification for Zcash ZAP1 attestations.  Rust + WASM.
 
 ## Layer2
 - [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
