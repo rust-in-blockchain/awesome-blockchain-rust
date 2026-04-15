@@ -117,7 +117,7 @@
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
-- [Solana](https://github.com/solana-labs/solana).
+- [Solana](https://github.com/solana-labs/solana).c
   Blockchain Rebuilt for Scale.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain).
   Proof of Transfer blockchain from Blockstack.
@@ -130,6 +130,11 @@
 - [Tendermint](https://github.com/informalsystems/tendermint-rs).
   Tendermint is a high-performance blockchain consensus engine for
   Byzantine fault tolerant applications.
+- [UltraDAG](https://github.com/UltraDAGcom/core).
+  Minimal DAG-BFT Layer 1 in Rust. Sub-4 MB binary, deterministic 
+  finality in 2-3 rounds, runs on a $15 Raspberry Pi Zero 2 W. 
+  Built for IoT and machine-to-machine micropayments. TLA+ formally 
+  verified consensus.
 - [Witnet](https://github.com/witnet/witnet-rust).
   Open source implementation of Witnet decentralized oracle network
   protocol in Rust.
@@ -202,6 +207,10 @@
   Rust.
 - [Narwhal](https://github.com/MystenLabs/narwhal).
   The consensus layer used by Sui.
+- [UltraDAG Consensus](https://github.com/UltraDAGcom/core).
+  Leaderless DAG-BFT consensus in Rust. TLA+ verified across 32.6M 
+  states, zero violations. Ed25519 + BLAKE3. Designed for constrained 
+  hardware.
 
 ## P2P Network Libraries
 - [chamomile](https://github.com/placefortea/chamomile).
