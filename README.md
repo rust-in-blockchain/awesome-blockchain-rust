@@ -16,6 +16,8 @@
 - [License](#license)
 
 ## Blockchains
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain in Rust+Python, rewards vintage hardware
 - [Aleo](https://github.com/AleoNet/snarkOS).
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
