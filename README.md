@@ -15,6 +15,8 @@
 - [Contribute](#contribute)
 - [License](#license)
 
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware.
 ## Blockchains
 - [Aleo](https://github.com/AleoNet/snarkOS).
   Decentralized operating system for zero-knowledge applications.
