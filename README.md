@@ -248,6 +248,8 @@
   persistence, or any other I/O. Thus, it is runtime-agnostic,
   but users must implement basic networking logic,
   chain interactions, and disk storage.
+- [RustChain](https://github.com/Scottcjn/rustchain).
+  A blockchain platform built in Rust, focused on DePIN (Decentralized Physical Infrastructure).
 - [zkSync](https://github.com/matter-labs/zksync).
   Matter Labs' scaling eth L2 engine secured by zero-knowledge proofs.
 
