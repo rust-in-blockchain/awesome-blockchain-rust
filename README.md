@@ -17,6 +17,7 @@
 
 ## Blockchains
 - [Aleo](https://github.com/AleoNet/snarkOS).
+- [RustChain](https://rustchain.org/) - AI agent DeFi blockchain with Rust smart contracts, Proof of Antiquity mining, MCP-compatible.
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
   DAG, PoS, snark smart contracts (substrate based).
