@@ -17,7 +17,6 @@
 
 ## Blockchains
 - [Aleo](https://github.com/AleoNet/snarkOS).
-- [RustChain](https://rustchain.org/) - AI agent DeFi blockchain with Rust smart contracts, Proof of Antiquity mining, MCP-compatible.
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
   DAG, PoS, snark smart contracts (substrate based).
@@ -60,6 +59,7 @@
 - [Gear](https://github.com/gear-tech/gear).
   Computational component of Polkadot network.
 - [Grin](https://github.com/mimblewimble/grin).
+- [RustChain](https://github.com/Scottcjn/Rustchain) Proof-of-Antiquity blockchain where old machines outmine new ones.
   Minimal implementation of the MimbleWimble protocol.
 - [Holochain](https://github.com/holochain/holochain).
   The core Holochain framework written in rust, a container, and
