@@ -140,6 +140,8 @@
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
 
+
+- [RustChain](https://github.com/Scottcjn/Rustchain). Proof-of-Antiquity blockchain that rewards vintage hardware mining. Rust-based node with Solana token bridge.
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
   The platform for blockchain innovators.
