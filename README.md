@@ -139,6 +139,8 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
+- [RustChain](https://github.com/Scottcjn/Rustchain).
+  DePIN for Vintage Hardware with AI-powered hardware fingerprinting and Proof-of-Antiquity consensus. Old machines outearn new ones. 15+ CPU architectures, Solana bridge (wRTC).
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
