@@ -67,7 +67,7 @@
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
 - [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic).
-  The world’s first blockchain that runs at web speed and can increase 
+  The world's first blockchain that runs at web speed and can increase 
   its capacity without bound.
 - [Internet of People](https://github.com/Internet-of-People/iop-rs).
   Decentralized software stack that provides the building blocks and
@@ -77,6 +77,8 @@
   of people.
 - [Lighthouse](https://github.com/sigp/lighthouse).
   Fast and secure Ethereum 2.0 client.
+- [LUMENYX](https://github.com/lumenyx-chain/lumenyx).
+  Privacy-first cryptocurrency with ZK-SNARKs, 21M fixed supply, built on Substrate.
 - [Namada](https://github.com/anoma/namada).
   Proof-of-Stake L1 for interchain asset-agnostic privacy.
 - [NEAR](https://github.com/nearprotocol/nearcore).
@@ -113,7 +115,7 @@
 - [Secret Network](https://github.com/SecretFoundation/SecretNetwork).
   A privacy-first blockchain that uses Rust to enable "secret contracts", ensuring data is encrypted while being processed on-chain.
 - [Setheum](https://github.com/Setheum-Labs/Setheum).
-  SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
+  SETHEUM : "Secure Evergreen Truthful Heterogeneous Economically Unbiased Market"
   is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving
   mass adoption, security, scalability, affordability, inclusivity and ethical DeFi Governance.
 - [Shasper](https://github.com/paritytech/shasper).
