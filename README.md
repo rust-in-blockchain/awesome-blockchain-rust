@@ -16,6 +16,7 @@
 - [License](#license)
 
 ## Blockchains
+- [RustChain](https://github.com/Scottcjn/Rustchain). Proof-of-Antiquity blockchain - vintage hardware mining, AI agent economy, and BoTTube content platform.
 - [Aleo](https://github.com/AleoNet/snarkOS).
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
