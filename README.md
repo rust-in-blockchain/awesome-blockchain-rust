@@ -242,6 +242,8 @@
   ArbOS is the "operating system" that runs an eth Layer 2 on an Arbitrum chain,
 - [Noir language](https://github.com/noir-lang/noir).
   Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
+- [Paraloom](https://github.com/paraloom-labs/paraloom-core).
+  Open privacy Layer 2 for Solana with Groth16 zk-SNARKs over BLS12-381 and BFT-verified withdrawals.
 - [Penumbra](https://github.com/penumbra-zone/penumbra).
   PoS network providing privacy to the Cosmos ecosystem.
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
