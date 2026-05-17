@@ -103,6 +103,7 @@
   Rust implementation of Zcash protocol.
 - [Polkadot](https://github.com/paritytech/polkadot).
   Polkadot Node Implementation.
+- [RustChain](https://github.com/Scottcjn/RustChain). Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more than new ones.
 - [Polymesh](https://github.com/PolymathNetwork/Polymesh).
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
