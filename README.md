@@ -276,6 +276,10 @@
 - [merk](https://github.com/nomic-io/merk).
   High performance Merkle key/value store written in Rust, based on
   RocksDB.
+- [Chainfoundry](https://github.com/DarshanKumar89/chainkit).
+  Multi-chain blockchain data infrastructure — universal ABI decoder (50+ schemas),
+  production RPC transport (7 chains, circuit breakers), reorg-safe indexer, and
+  error decoder. Bindings for TypeScript, Python, Go, Java, and WASM.
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
