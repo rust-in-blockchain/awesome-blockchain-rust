@@ -132,6 +132,10 @@
 - [Tendermint](https://github.com/informalsystems/tendermint-rs).
   Tendermint is a high-performance blockchain consensus engine for
   Byzantine fault tolerant applications.
+- [Tron Goblin Node](https://github.com/Gingerbreadfork/tron-goblin-node).
+  Independent Rust full-node implementation for TRON, targeting
+  java-tron-compatible storage, P2P, RPC/gRPC, indexing, firehose, and
+  Block-STM execution.
 - [Witnet](https://github.com/witnet/witnet-rust).
   Open source implementation of Witnet decentralized oracle network
   protocol in Rust.
