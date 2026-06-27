@@ -141,6 +141,8 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
+- [Btfy](https://github.com/kotagit75/btfy).
+  A Blockchain Secured by Weather Observations.
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
