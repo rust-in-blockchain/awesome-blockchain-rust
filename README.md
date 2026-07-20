@@ -238,6 +238,9 @@
   Rust recursive snark without trusted setup.
 - [Arkworks](https://github.com/arkworks-rs).
   An ecosystem for developing and programming with zkSNARKs
+- [tidex6](https://github.com/koshak01/tidex6).
+  Privacy framework for Solana: Groth16 shielded pool (arkworks, BN254) with
+  Token-2022 confidential transfers, and browser-side proving compiled to WASM.
 
 ## Layer2
 - [Arbitrum's arb-os](https://github.com/OffchainLabs/arb-os)
