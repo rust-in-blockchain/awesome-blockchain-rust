@@ -280,6 +280,10 @@
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
+- [browser-web3-signer](https://github.com/nikicat/browser-web3-signer).
+  CLI and Rust/TypeScript/Go libraries to sign EVM and TRON transactions
+  and messages with your own browser wallet (MetaMask, Rabby, TronLink);
+  the private key never leaves the browser.
 
 ## Contribute
 Contributions are most welcome.
