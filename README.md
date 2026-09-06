@@ -32,6 +32,8 @@
   Native Cross-Chain Swaps.
 - [CITA](https://github.com/cryptape/cita).
   A high performance blockchain kernel for enterprise users.
+- [Clutch Protocol](https://github.com/clutchprotocol).
+  Ride-sharing Layer 1 with Aura consensus and custom RLP transaction types.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
   Programmable multi-asset chain.
 - [Concordium](https://github.com/Concordium).
