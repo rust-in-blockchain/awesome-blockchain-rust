@@ -279,6 +279,8 @@
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
 
 ## Contribute
