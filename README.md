@@ -142,6 +142,8 @@
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
 
+- [RustChain](https://github.com/Scottcjn/Rustchain).
+  Proof-of-Antiquity (PoA) blockchain with vintage hardware mining and lightweight node architecture.
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
   The platform for blockchain innovators.
