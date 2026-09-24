@@ -280,6 +280,8 @@
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
+- [hypersync-client-rust](https://github.com/enviodev/hypersync-client-rust).
+  Rust client for Envio's HyperSync, a blockchain data API that returns filtered blocks, transactions and logs as an alternative to JSON-RPC.
 
 ## Contribute
 Contributions are most welcome.
