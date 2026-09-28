@@ -139,6 +139,9 @@
   Post-quantum blockchain, mixnet privacy preventing metadata analysis. (Substrate rust+go)
 - [Zebra](https://github.com/ZcashFoundation/zebra).
   An ongoing Rust implementation of a Zcash node.
+- [Zecnero](https://gitlab.com/zecnero/zecnerod).
+  A fork of Zebra that replaces Equihash with RandomX proof of work, keeping
+  Zcash's Sapling and Orchard shielded pools.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
 
