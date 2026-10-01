@@ -16,6 +16,8 @@
 - [License](#license)
 
 ## Blockchains
+- [Acurast](https://github.com/Acurast/acurast-substrate).
+  Decentralized compute network on smartphones (substrate based).
 - [Aleo](https://github.com/AleoNet/snarkOS).
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
