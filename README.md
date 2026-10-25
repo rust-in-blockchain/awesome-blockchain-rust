@@ -280,6 +280,9 @@
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
+- [BumbleBeam](https://github.com/profinch/bumblebeam).
+  Open-source mining pool server (stratum, PPLNS and solo accounting, payouts)
+  and a reference CPU miner for Beam's BeamHash III, checked against the Beam core.
 
 ## Contribute
 Contributions are most welcome.
