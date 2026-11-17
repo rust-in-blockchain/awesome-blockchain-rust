@@ -77,6 +77,9 @@
   of people.
 - [Lighthouse](https://github.com/sigp/lighthouse).
   Fast and secure Ethereum 2.0 client.
+- [Machine](https://github.com/yourmememachine/mememachine).
+  A Solana-derived L1 built on an Agave fork, with a native anti-rug
+  launch standard and a Solana bridge. Localnet stage.
 - [Namada](https://github.com/anoma/namada).
   Proof-of-Stake L1 for interchain asset-agnostic privacy.
 - [NEAR](https://github.com/nearprotocol/nearcore).
