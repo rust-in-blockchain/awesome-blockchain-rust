@@ -266,6 +266,7 @@
   you can privately swap, lend and convert your tokens into their
   private equivalent.
 - [ink!athon](https://github.com/scio-labs/inkathon).
+- [Solana Rent & Rug Shield](https://rentandrugshield.com) ([Benchmark](https://github.com/sonnyman2014/solana-rug-audit-benchmark)). Non-custodial Solana Sealevel 12-layer token security scanner, Inner CPI drainer simulator, and SPL/Token-2022 empty ATA rent recovery engine.
   Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.
 
 ## Other
